@@ -1,0 +1,30 @@
+10/19/2021 10:26:09 PM -status -INFO: ##### Cricbuzz Title  Verification passed successfully######
+10/19/2021 10:26:09 PM -status -INFO: ##### Cricbuzz logo  Verification passed successfully######
+10/19/2021 10:26:12 PM -status -INFO: 
++----------------------------------------+----------------------------------------+--------+
+|            Expected Result             |             Actual Result              | Status |
++----------------------------------------+----------------------------------------+--------+
+| ICC Cricket Rankings - Women's Batting | ICC Cricket Rankings - Women's Batting |  Pass  |
++----------------------------------------+----------------------------------------+--------+
+10/19/2021 10:26:12 PM -status -INFO: ##### Women Ranking page Verification passed successfully######
+10/19/2021 10:26:14 PM -status -INFO: 
++--------------------------------------+--------------------------------------+--------+
+|           Expected Result            |            Actual Result             | Status |
++--------------------------------------+--------------------------------------+--------+
+| ICC Cricket Rankings - Men's Batting | ICC Cricket Rankings - Men's Batting |  Pass  |
++--------------------------------------+--------------------------------------+--------+
+10/19/2021 10:26:14 PM -status -INFO: ##### Mens Ranking page Verification passed successfully######
+10/19/2021 10:26:26 PM -status -INFO: 
++-----------------+---------------+--------+
+| Expected Result | Actual Result | Status |
++-----------------+---------------+--------+
+|     Joe Root    |    Joe Root   |  Pass  |
++-----------------+---------------+--------+
+10/19/2021 10:26:26 PM -status -INFO: ##### Top Ranking Player Verification passed successfully######
+10/19/2021 10:26:41 PM -status -INFO: 
++-----------------+---------------+--------+
+| Expected Result | Actual Result | Status |
++-----------------+---------------+--------+
+|      lt 10      |       5       |  Pass  |
++-----------------+---------------+--------+
+10/19/2021 10:26:41 PM -status -INFO: ##### Rohit Sharma is in the top 5 best Test Day player list Verification passed successfully######

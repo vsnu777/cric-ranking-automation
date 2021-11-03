@@ -1,0 +1,16 @@
+# Create framework for Crickbuzz web App
+# Create test case to get the total number of match played and the number of run made  by a named cricketer.
+
+Scenario1:
+1. Launch Cricbuzz App.
+2. Click on Rankings dropdown
+3. Select Men's ranking
+4. Get the expected players Ranking
+
+Scenario2:
+1. Launch Cricbuzz App.
+2. Click on Rankings dropdown
+3. Select Men's ranking
+4. Select expected player
+5. Get the total number of matches played by the given player
+6. Get the total number of runs made by the given player.

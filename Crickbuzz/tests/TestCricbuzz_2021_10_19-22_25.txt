@@ -1,0 +1,10 @@
+10/19/2021 10:26:01 PM -TestCricbuzz -INFO: Launch Crickbuzz web Application
+10/19/2021 10:26:09 PM -TestCricbuzz -INFO: Titile is : IPL 2021 Cricket Score, Schedule, Latest News, Stats & Videos | Cricbuzz.com 
+10/19/2021 10:26:09 PM -TestCricbuzz -INFO: Verify that lauched application title is 'Cricbuzz'
+10/19/2021 10:26:09 PM -TestCricbuzz -INFO: #####Cricbuzz Title Verification#####
+10/19/2021 10:26:09 PM -TestCricbuzz -INFO: We have successfully launched cricbuzz
+10/19/2021 10:26:09 PM -TestCricbuzz -INFO: #####Cricbuzz logo Verification#####
+10/19/2021 10:26:10 PM -TestCricbuzz -INFO: #####Verify that Women's Ranking page is displayed.######
+10/19/2021 10:26:12 PM -TestCricbuzz -INFO: #####Verify that Mens Ranking page is displayed.######
+10/19/2021 10:26:26 PM -TestCricbuzz -INFO: Joe Root is the top ranking test player
+10/19/2021 10:26:26 PM -TestCricbuzz -INFO: #####Verify that Rohit Sharma is in the top 5 best Test  player list#####
