@@ -23,6 +23,15 @@ class Cribuzz_home:
             if player == player_name:
                 player_rank = int(rank)
         return player_rank
+    
+    def get_player_Rank(self,player_name):
+        self.clibs.nav_Rankings()
+        self.clibs.select_mensRanking()
+        player_rank_dict = self.clibs.get_Rank_detail()
+        for player, rank in player_rank_dict.items():
+            if player == player_name:
+                player_rank = int(rank)
+        return player_rank
 
 
 
