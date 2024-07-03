@@ -24,7 +24,7 @@ class Cribuzz_home:
                 player_rank = int(rank)
         return player_rank
     
-    def get_player_Rank(self,player_name):
+    def get_player_Rank_1(self,player_name):
         self.clibs.nav_Rankings()
         self.clibs.select_mensRanking()
         player_rank_dict = self.clibs.get_Rank_detail()

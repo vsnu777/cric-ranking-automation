@@ -14,3 +14,11 @@ Scenario2:
 4. Select expected player
 5. Get the total number of matches played by the given player
 6. Get the total number of runs made by the given player.
+
+Scenario3
+1. Launch Cricbuzz App.
+2. Click on Rankings dropdown
+3. Select Women's ranking
+4. Select expected player
+5. Get the total number of matches played by the given player
+6. Get the total number of runs made by the given player.
